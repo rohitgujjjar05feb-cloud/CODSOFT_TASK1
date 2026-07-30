@@ -78,6 +78,8 @@ Titanic-Survival-Prediction/
 
 │── README.md
 
+|── confusion_matrix.png
+
 ---
 
 ## 📷 Output
